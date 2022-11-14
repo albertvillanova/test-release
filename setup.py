@@ -53,6 +53,6 @@ from setuptools import setup
 
 setup(
     name="test-release",
-    version="0.0.0.rc1",  # "2.6.2.dev0",  # expected format is one of x.y.z.dev0, or x.y.z.rc1 or x.y.z (no to dashes, yes to dots)
+    version="0.0.0",  # "2.6.2.dev0",  # expected format is one of x.y.z.dev0, or x.y.z.rc1 or x.y.z (no to dashes, yes to dots)
 )
 
